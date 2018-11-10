@@ -1,0 +1,4 @@
+[en_US:ADB FileManager|zh_CN:ADB文件管理器]
+type=menu
+script=FileManager.java
+toolbar=filemanager.png
